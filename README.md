@@ -123,3 +123,19 @@ DevOps Stack:           Cloud & Infrastructure:        AI/ML Tools:
 > *"Building the future of DevOps, one AI-powered pipeline at a time."*
 
 **[📩 Contact Me Now](mailto:surendran33@gmail.com)** | **[🔗 View My Work](https://github.com/surendranm33)**
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
