@@ -126,9 +126,9 @@ DevOps Stack:           Cloud & Infrastructure:        AI/ML Tools:
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=surendranm33&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surendranm33&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
@@ -138,4 +138,4 @@ DevOps Stack:           Cloud & Infrastructure:        AI/ML Tools:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=surendranm33&color=blue)
