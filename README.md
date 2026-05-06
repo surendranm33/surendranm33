@@ -50,24 +50,24 @@ DevOps Stack:           Cloud & Infrastructure:        AI/ML Tools:
 
 ---
 
-## 🌟 **What I Offer on Upwork/Fiverr:**
+## 🌟 **What I Offer :**
 
-### 1️⃣ **AI-Powered DevOps Automation** ($5K-$50K)
+### 1️⃣ **AI-Powered DevOps Automation**
 - Custom LLM integration for your CI/CD pipeline
 - Intelligent code review automation
 - ML-driven build optimization
 
-### 2️⃣ **Enterprise DevOps Architecture** ($10K-$100K)
+### 2️⃣ **Enterprise DevOps Architecture**
 - End-to-end DevOps transformation
 - Kubernetes/Docker containerization at scale
 - Hybrid cloud implementation
 
-### 3️⃣ **DevSecOps & Compliance** ($3K-$30K)
+### 3️⃣ **DevSecOps & Compliance** 
 - Security-first pipeline design
 - Infrastructure as Code implementation
 - Compliance automation
 
-### 4️⃣ **DevOps Consulting & Training** ($150-$500/hour)
+### 4️⃣ **DevOps Consulting & Training** 
 - Team mentoring and upskilling
 - DevOps strategy and roadmap
 - Best practices implementation
@@ -103,10 +103,6 @@ DevOps Stack:           Cloud & Infrastructure:        AI/ML Tools:
 ---
 
 ## 🚀 **Ready to Transform Your DevOps?**
-
-### 💼 **Hire Me On:**
-- 🟢 **Upwork:** [Top Rated Plus - AI DevOps Expert]
-- 🟣 **Fiverr:** [Level 2 Seller - Enterprise DevOps]
 
 ### 📞 **Let's Talk:**
 📧 surendran33@gmail.com or surendranm.engineer@gmail.com
